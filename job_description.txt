@@ -1,0 +1,19 @@
+Junior AI Application Developer
+
+Responsibilities:
+- Build Python applications using language models.
+- Integrate external APIs and tools.
+- Implement human approval for sensitive actions.
+- Debug and maintain application workflows.
+
+Required:
+- Python
+- Git
+- REST API integration
+- Experience building an LLM application
+
+Preferred:
+- LangChain
+- SQL
+- Docker
+- Cloud deployment

@@ -1,0 +1,25 @@
+Alex Morgan
+Junior Python Developer
+Email: alex@example.com
+
+SUMMARY
+Computer science graduate with Python project experience.
+Interested in building AI-powered applications.
+
+SKILLS
+Python, SQL, Git, REST APIs, LangChain, Google Calendar API
+
+PROJECTS
+Meeting Assistant
+- Built a Python assistant using LangChain and Google Calendar.
+- Implemented tools to create, view, reschedule, and delete events.
+- Added human approval before calendar changes.
+- Implemented checks for overlapping meetings.
+
+Customer Feedback Classifier
+- Built a Python application to categorize customer feedback.
+- Used SQL to store and retrieve feedback records.
+
+EDUCATION
+BSc in Computer Science, 2026
+Example University
